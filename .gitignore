@@ -19,5 +19,6 @@ _book
 *.epub
 *.mobi
 *.pdf
+.DS_Store
 
 # End of https://www.toptal.com/developers/gitignore/api/gitbook
